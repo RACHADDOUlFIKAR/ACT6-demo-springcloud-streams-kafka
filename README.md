@@ -1,0 +1,5 @@
+![Capture d’écran 2024-01-03 155737](https://github.com/RACHADDOUlFIKAR/ACT6-demo-springcloud-streams-kafka/assets/97551741/f9fe4645-64e4-4c36-a4cd-5bc424a5f879)
+![Capture d’écran 2024-01-03 170855](https://github.com/RACHADDOUlFIKAR/ACT6-demo-springcloud-streams-kafka/assets/97551741/180f4bb8-a9be-4ab4-b42f-cf9440c19314)
+![Capture d’écran 2024-01-10 163624](https://github.com/RACHADDOUlFIKAR/ACT6-demo-springcloud-streams-kafka/assets/97551741/5b2578c3-7ad9-43d9-be4a-563190397700)
+![Capture d’écran 2024-01-10 163647](https://github.com/RACHADDOUlFIKAR/ACT6-demo-springcloud-streams-kafka/assets/97551741/26b706a8-2f3e-4bb1-b316-79afd5a1fae7)
+![Capture d’écran 2024-01-10 163715](https://github.com/RACHADDOUlFIKAR/ACT6-demo-springcloud-streams-kafka/assets/97551741/a5cf81b4-1316-428b-aa05-1454e72eb99d)
